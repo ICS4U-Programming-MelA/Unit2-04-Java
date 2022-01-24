@@ -46,7 +46,7 @@ final class TowersOfHanoi {
       final int userInt = Integer.parseInt(userString);
       input.close();
 
-      // If the user's integer isn't above 0, display an error to the user.
+      // If the user's number of discs isn't above 0, display an error to the user.
       if (userInt < 0) {
         System.out.print("\n" + userInt + " isn't a positive integer. Please enter an integer"
                        + " above 0." + "\n");
