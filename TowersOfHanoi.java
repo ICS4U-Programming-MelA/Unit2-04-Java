@@ -1,5 +1,4 @@
 // Import modules.
-import java.io.IOException;
 import java.lang.NumberFormatException;
 import java.util.Scanner;
 
